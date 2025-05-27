@@ -1,6 +1,6 @@
 # Decisions
 
-## Use doubly linked list for list of LCDPosition
+## Use singly linked list for list of LCDPosition
 
 ## Use vector for pairing Timestamp to LCDPosition
 
